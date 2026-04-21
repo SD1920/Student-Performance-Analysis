@@ -54,4 +54,4 @@ This project aims to analyze student performance in various subjects using data-
 
 ---
 
-For further information and contributions, please refer to the contributing guidelines in the repository.
+For further information and contributions, please mail me : sanjamdas2@gmail.com
